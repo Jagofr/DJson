@@ -23,7 +23,7 @@
 
 #define DJSON_RUN_TESTCASES_AT_INIT 0
 
-#pragma dynamic 4000000
+//#pragma dynamic 4000000
 
 #define DJSON_CACHE_USE_TEMPTABLES 1
 #define DJSON_ALLOW_STYLED_OUTPUT 1
